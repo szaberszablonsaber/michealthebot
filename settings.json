@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WisteriaGardenview.aternos.me:64863",
+    "ip": "WisteriaGardenview.aternos.me",
     "port": 64863,
     "version": "",
     "try-creative": false
